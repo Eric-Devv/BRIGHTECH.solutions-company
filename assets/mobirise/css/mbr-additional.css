@@ -766,7 +766,8 @@ a {
 }
 .cid-uoyCFl6OE9 .dropdown-menu,
 .cid-uoyCFl6OE9 .navbar.opened {
-  background: #bbbbbb !important;
+  background: transparent !important;
+  backdrop-filter: blur(50px);
 }
 .cid-uoyCFl6OE9 .nav-item:focus,
 .cid-uoyCFl6OE9 .nav-link:focus {
